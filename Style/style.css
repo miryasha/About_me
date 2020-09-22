@@ -1,0 +1,20 @@
+body {
+    background-image: url("../Img/backaground.jpg")
+  }
+#about,#WelcomeText, label
+{
+    text-shadow: cadetblue;
+    font-size: large;
+    font-weight: bolder;
+}
+  
+#aboutimage{
+    float: left;
+    margin:12px;
+  }
+
+.col-6 {
+
+    margin:10px;
+    padding:10px;
+}
