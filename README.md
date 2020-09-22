@@ -1,4 +1,4 @@
-•	Titles:
+•	Title:
    About me
    
 •	Description:
