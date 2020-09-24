@@ -1,6 +1,6 @@
 •	Title:
    About me
-   
+  
 •	Description:
 This is the personal website for my portfolio
 
@@ -10,4 +10,5 @@ Bootstrap
 •	Contents:
 About, Portfolio, Contacts
 
-
+•           site is published at:
+ https://yasha6081.github.io/About_me/
